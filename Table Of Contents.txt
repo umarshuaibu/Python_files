@@ -1,0 +1,32 @@
+Python Basics
+Setting Up All The Requered Tools
+Variables
+Data Types
+Mathematical Operators
+Conditional Statements
+Getting Input From The User
+Function and Parameter
+
+DATA TYPES
+1. String
+    Normal String
+    Format string
+
+2. Number
+    Int 
+    float
+    complex
+
+3. Bool
+    True and false boolean
+
+4. Sequence
+    list - print multiple items in a single line - it used square brackets
+    Tuple - used normal open brackets
+    Set 
+    dictionary -  use key, value and pair
+
+OPERATORS 
+    -Arithmatic Operators
+    -Assignment Operators
+    -
